@@ -110,7 +110,7 @@ results = vector_store.similarity_search("Your question", k=5)
 ## 💡 Technical Highlights
 
 **Why This Approach?**
-- **Semantic Search**: Understands meaning, handles synonyms and paraphrasing
+- **Semantic Search**: Understands meaning
 - **Context Awareness**: Keeps related information together in chunks
 - **Scalability**: Works with 50-500+ page documents
 - **Accuracy**: Preserves tables and images instead of losing them
