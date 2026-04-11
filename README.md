@@ -128,7 +128,6 @@ multi_modal_rag.ipynb  # Main notebook with all steps
 README.md              # This file
 ```
 
-```
 ---
 
 **Tech Stack:** Python • LangChain • Unstructured.io • OpenAI • Chroma  
