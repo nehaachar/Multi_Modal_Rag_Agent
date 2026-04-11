@@ -51,14 +51,7 @@ Optical Character Recognition (OCR) engine. When you have scanned documents, ima
 
 ## libmagic
 File type detection library. It identifies what type of file you're dealing with (PDF, Word doc, image, etc.) by analyzing the file's content, not just the extension. This helps Unstructured choose the right processing method for each document.
-  ```bash
-  # macOS
-  brew install poppler tesseract libmagic
-  
-  # Ubuntu
-  sudo apt-get install poppler-utils tesseract-ocr libmagic-dev
-  ```
-
+ 
 ### Setup
 ```bash
 # Install dependencies
