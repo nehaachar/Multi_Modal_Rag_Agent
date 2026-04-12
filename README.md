@@ -35,23 +35,7 @@ PDF → Extract Elements → Smart Chunking → Generate Embeddings → Store in
 | **Semantic Search** | Understands meaning, not just keywords |
 | **Multi-Modal Support** | Handles text, tables, and images together |
 
-## 📦 Installation
 
-### Prerequisites
-- Python 3.8+
-- # System Dependencies
-
-To get started with Unstructured.io, we need a few system-wide dependencies: 
-
-## Poppler (poppler-utils)
-Handles PDF processing. It's a library that can extract text, images, and metadata from PDFs. Unstructured uses it to parse PDF documents and convert them into processable text.
-
-## Tesseract (tesseract-ocr) 
-Optical Character Recognition (OCR) engine. When you have scanned documents, images with text, or PDFs that are essentially pictures, Tesseract reads the text from these images and converts it to machine-readable text.
-
-## libmagic
-File type detection library. It identifies what type of file you're dealing with (PDF, Word doc, image, etc.) by analyzing the file's content, not just the extension. This helps Unstructured choose the right processing method for each document.
- 
 ### Setup
 ```bash
 # Install dependencies
