@@ -9,7 +9,7 @@ This project implements an AI agent that:
 2. **Chunks** documents intelligently while preserving context
 3. **Stores** chunks as vector embeddings in a database (Chroma)
 4. **Retrieves** relevant information based on user queries
-5. **Generates** accurate answers using GPT-4 with the retrieved context
+5. **Generates** accurate answers using LLM with the retrieved context
 
 ## 🏗️ How It Works (Pipeline)
 
@@ -22,7 +22,7 @@ PDF → Extract Elements → Smart Chunking → Generate Embeddings → Store in
 - **Intelligent Chunking**: Title-based chunks (max 3000 chars) preserve context
 - **Multi-Modal Processing**: Handle text, tables, and images separately
 - **Semantic Search**: Find relevant chunks using embeddings (not keyword search)
-- **LLM Integration**: GPT-4 generates answers using retrieved context
+- **LLM Integration**: LLM generates answers using retrieved context
 
 ## 🔑 Key Features
 
