@@ -41,8 +41,6 @@ PDF → Extract Elements → Smart Chunking → Generate Embeddings → Store in
 # Install dependencies
 pip install "unstructured[all-docs]" langchain_chroma langchain langchain-community langchain-openai python-dotenv
 
-# Create .env file with your OpenAI API key
-echo "OPENAI_API_KEY=your_key_here" > .env
 ```
 
 ## 🚀 Usage
