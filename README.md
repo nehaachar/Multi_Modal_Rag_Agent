@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that processes PDF documents with text, tables, and images, then provides intelligent answers using LLMs and semantic search.
 
-<img width="623" height="313" alt="{5705B1E3-9066-41AA-AD1B-7316B803E2FE}" src="https://github.com/user-attachments/assets/846d55f6-692e-4475-8272-2ad8ffe01721" />
+<img width="569" height="312" alt="{5A518BE8-E4A7-4957-8153-8A67EBEC1CF7}" src="https://github.com/user-attachments/assets/2e095fbd-0363-4aa2-b49f-e3979e903868" />
 
 ## 🎯 What is This?
 
