@@ -88,7 +88,6 @@ vector_store = Chroma.from_documents(chunks, OpenAIEmbeddings())
 ### 5. Query and Generate Answers
 ```python
 results = vector_store.similarity_search("Your question", k=5)
-# Feed results to GPT-4 for final answer
 ```
 
 ## 💡 Technical Highlights
@@ -103,7 +102,7 @@ results = vector_store.similarity_search("Your question", k=5)
 - **Unstructured.io**: Better than PyPDF2 or pdfplumber for multi-modal documents
 - **Title-Based Chunking**: Better than naive splitting; preserves document structure
 - **Chroma**: Fast, simple, reliable vector database for this use case
-- **OpenAI Embeddings + GPT-4**: State-of-the-art quality (can swap for other models)
+- **OpenAI Embeddings + LLM**: State-of-the-art quality (can swap for other models)
 
 ## 📋 Project Structure
 
