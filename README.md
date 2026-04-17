@@ -2,7 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) system that processes PDF documents with text then provides intelligent answers using LLMs and semantic search.
 
-<img width="569" height="312" alt="{5A518BE8-E4A7-4957-8153-8A67EBEC1CF7}" src="https://github.com/user-attachments/assets/2e095fbd-0363-4aa2-b49f-e3979e903868" />
+<img width="574" height="300" alt="image" src="https://github.com/user-attachments/assets/f11f7f3f-af33-4b7e-9adf-0a0f99e2ecb6" />
+
 
 ## 🎯 What is This?
 
@@ -20,7 +21,7 @@ PDF → Extract Elements → Smart Chunking → Generate Embeddings → Store in
 ```
 
 **Key Steps:**
-- **Document Partitioning**: Extract text, tables, images with metadata
+- **Document Partitioning**: Extract texts
 - **Intelligent Chunking**: Title-based chunks (max 3000 chars) preserve context
 - **Semantic Search**: Find relevant chunks using embeddings (not keyword search)
 - **LLM Integration**: LLM generates answers using retrieved context
