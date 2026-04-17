@@ -119,3 +119,7 @@ README.md              # This file
 
 <img width="1174" height="525" alt="Screenshot 2026-04-17 140217" src="https://github.com/user-attachments/assets/ee71cbf7-04b3-49bd-b8c8-8591e0063a18" />
 
+<img width="1025" height="324" alt="image" src="https://github.com/user-attachments/assets/b1812003-6055-44e9-9fcd-60d3ca57d739" />
+
+<img width="1163" height="307" alt="Screenshot 2026-04-17 134910" src="https://github.com/user-attachments/assets/b689998f-9eb6-4ba3-b99d-e934841a45c5" />
+
