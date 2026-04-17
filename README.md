@@ -106,7 +106,7 @@ print(answer)
 ## 📋 Project Structure
 
 ```
-multi_modal_rag.ipynb  # Main notebook with all steps
+agent.ipynb  # Main notebook with all steps
 README.md              # This file
 ```
 
