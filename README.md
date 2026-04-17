@@ -114,3 +114,8 @@ README.md              # This file
 ---
 
 **Tech Stack:** Python • LangChain • Unstructured.io • OpenAI • Chroma  
+
+## Output
+
+<img width="1174" height="525" alt="Screenshot 2026-04-17 140217" src="https://github.com/user-attachments/assets/ee71cbf7-04b3-49bd-b8c8-8591e0063a18" />
+
